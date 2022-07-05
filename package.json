@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.4.1"
+  },
+  "name": "04-helpers",
+  "version": "1.0.0",
+  "description": "Es una Simple Tabal de multi con Archivo de Texto",
+  "main": "multiplicar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Hinojosa",
+  "license": "MIT"
+}
